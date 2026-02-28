@@ -63,7 +63,7 @@ let a,b;
 a=b= 25-10-5;
 console.log(a,b);
 
-console.log("durga prasad");
+
 
 
 
