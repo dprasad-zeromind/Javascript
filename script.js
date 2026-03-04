@@ -62,6 +62,7 @@ console.log(year-1991>year-2018);
 let a,b;
 a=b= 25-10-5;
 console.log(a,b);
+console.log("today is my bad day!");
 
 
 
