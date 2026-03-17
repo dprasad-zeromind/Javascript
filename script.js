@@ -63,6 +63,13 @@ let a,b;
 a=b= 25-10-5;
 console.log(a,b);
 
+const student={
+    firstName:"DurgaPrasad",
+    age:32,
+    cgpa:10.00,
+    isPass:true,
+};
+
 
 
 
