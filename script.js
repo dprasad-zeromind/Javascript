@@ -69,6 +69,8 @@ const student={
     cgpa:10.00,
     isPass:true,
 };
+student [name]= "Dprasad";
+console.log(student[name]);
 
 
 
