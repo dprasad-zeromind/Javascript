@@ -128,7 +128,9 @@ if(score >= 90 && score <= 100){
     grade="Stupid Please Enter corrct Markes!";
 }
 
-console.log("According your score, Your Grade Was : ",grade);
+console.log("According your score, Your Grade Was :",grade);
+console.log=prompt("According your score, Your Grade Was : ",grade);
+
 
 
 
