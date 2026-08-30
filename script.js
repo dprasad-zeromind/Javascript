@@ -123,9 +123,12 @@ if(score >= 90 && score <= 100){
 }else if(score >=50 && score<=59){
     grade ="D";
 }else if (score >= 0 && score<=49){
-    grade ="Fail";
+        grade ="Fail";
+}else if (score >=100){
+    grade="Stupid Please Enter corrct Markes!";
 }
-console.log("According your score, Your Grade Was : ",Grade);
+
+console.log("According your score, Your Grade Was : ",grade);
 
 
 
