@@ -125,7 +125,7 @@ if(score >= 90 && score <= 100){
 }else if (score >= 0 && score<=49){
     grade ="Fail";
 }
-console.log("According your score, Your Grade Was : ",grade);
+console.log("According your score, Your Grade Was : ",Grade);
 
 
 
